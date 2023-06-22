@@ -1,6 +1,13 @@
 # OPI.GPIO
 A modified version of OrangePi.GPIO to bring suport for the Orange Pi Zero2, Orange Pi 3 and the Orange Pi Lite2
 
+######  Note:
+As of the depracation of
+```
+pip setup.py install
+```
+I'll need to update this module to use the "wheel"
+
 ###### Installation 
 
 ```
